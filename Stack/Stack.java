@@ -10,9 +10,9 @@ public class Stack {
 
         do {
             System.out.println("\n-*******My Stack*******");
-            System.out.println("1. Add a name (Push)");
-            System.out.println("2. Remove top name (Pop)");
-            System.out.println("3. View top name (Peek)");
+            System.out.println("1. (Push)");
+            System.out.println("2.  (Pop)");
+            System.out.println("3. (Peek)");
             System.out.println("4. Show all names");
             System.out.println("5. Exit");
             System.out.print("Enter your choice: ");
@@ -104,4 +104,5 @@ class NameStack {
             }
         }
     }
+
 }
